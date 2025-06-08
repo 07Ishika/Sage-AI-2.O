@@ -63,7 +63,7 @@ function IntermidiateSec() {
       >
         <div className="relative p-[3px] rounded-2xl bg-animated-glow">
           <div className="rounded-2xl bg-[#0f172a]">
-            <button className="w-full bg-[211C84] hover:bg-[#4f46e5] text-white font-semibold text-base px-6 py-3 rounded-2xl transition">
+            <button className="w-full bg-[211C84] hover:bg-[#4f46e5] text-white font-semibold text-base px-6 py-3 rounded-2xl transition shadow-lg hover:shadow-xl flex items-center justify-center gap-2 cursor-pointer">
               Explore How Sage Works
             </button>
           </div>
