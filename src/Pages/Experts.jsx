@@ -58,7 +58,7 @@ function ExpertSection() {
 
           {/* Description */}
           <p className="text-gray-400 text-base">
-            Tap into a community of trusted experts across various domains — from design and business strategy to cybersecurity. Whether you're solving complex challenges or scaling fast, our AI-powered expert matching ensures you're connected to the right professional. Get real-time answers, tailored guidance, and actionable insights — all in one seamless experience. With SageAI, expert help is just a conversation away.
+           Tap into a community of trusted experts across various domains — from design and business strategy to mental health and legal advice. Whether you're solving complex challenges or scaling fast, our AI-powered expert matching ensures you're connected to the right professional. Get real-time answers, tailored guidance, and actionable insights — all in one seamless experience. With SageAI, expert help is just a conversation away.
           </p>
 
           {/* Button */}

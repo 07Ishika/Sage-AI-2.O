@@ -11,6 +11,7 @@ import {
   FaUsers,
 } from "react-icons/fa";
 import logo from "../assets/logo.png";
+import { Link } from "react-router-dom";
 
 function Home() {
   const expertDomains = ["Doctor", "Education", "Legal", "Nutrition", "Accountant"];
@@ -31,6 +32,7 @@ function Home() {
           <span className="text-white">Sage</span>
           <span className="text-green-400">AI</span>
         </h1>
+        <Link to="/register-consultant" className="bg-green-400 text-[#0a1540] px-4 py-2 rounded font-semibold hover:bg-green-300 transition">Consult with Us?</Link>
       </nav>
 
       {/* Main Content */}
